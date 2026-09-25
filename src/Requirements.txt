@@ -1,0 +1,13 @@
+Write two functional requirements *using the format we've discussed in class* for Zoom.
+ The requirements can be about anything so long as they're functional and logically sound.
+
+1.
+
+2.
+
+Write two non-functional requirements for Zoom. The requirements can be about anything so
+long as they're non-functional and logically sound, they don't even need to necessarily be accurate...
+
+1.
+
+2.
