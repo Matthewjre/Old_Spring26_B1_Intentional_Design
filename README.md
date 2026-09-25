@@ -1,3 +1,13 @@
+## Disclaimer For Fall26 Students and beyond!!!
+
+Be aware that this benchmark was given prior to a major overhaul of the course. I did not teach Style/Linting or Acceptance Criteria back then, and there was more emphasis on functional vs non-functional requirements compared to user stories
+
+So, in addition to the functional and non-functional requirements, which you could maybe consider skipping since I'm not going to ask you to write those in Fall26 at least, you should write user stories and acceptance criteria too.
+
+The documentation stuff hasn't really changed much, so that's more or less how you're going to see it...
+
+## Spring26_B1_Intentional_Design
+
 Your job is to do the following
 
     Write 2 functional requirements
